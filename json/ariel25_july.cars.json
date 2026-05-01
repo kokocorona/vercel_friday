@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65840e674de1af726c8b4f72"
+  },
+  "company": "toyota prius",
+  "color": "blue",
+  "year": 2015
+},
+{
+  "_id": {
+    "$oid": "658d257a3918b887f77557af"
+  },
+  "company": "Mazda 6",
+  "color": "white",
+  "year": 2019
+},
+{
+  "_id": {
+    "$oid": "65a40c6bbe0a48b3371e91c9"
+  },
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a413aae71d2b9b8c6380d2"
+  },
+  "company": "opel",
+  "color": "red",
+  "year": 2024,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a44bd3c3c675a57e78b073"
+  },
+  "company": "toyota supra",
+  "color": "blue",
+  "year": 1999,
+  "createdAt": {
+    "$date": "2025-08-19T10:02:59.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-19T10:02:59.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a44cdc0f2beca14f006f85"
+  },
+  "company": "toyota supra 2",
+  "color": "blue",
+  "year": 1999,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-19T10:07:24.894Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-19T10:07:24.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac4e83893e15af13d99953"
+  },
+  "company": "Tesla 3",
+  "color": "white",
+  "year": 2022,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-25T11:52:35.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T11:52:35.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad55042c4416755782be9d"
+  },
+  "company": "Mazda 3",
+  "color": "red",
+  "year": 2020,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-26T06:32:36.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:32:36.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad596d5deab091e82467ab"
+  },
+  "company": "Toyota supra",
+  "color": "silver",
+  "year": 2001,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-26T06:51:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:51:25.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad59855deab091e82467ad"
+  },
+  "company": "Tesla 3",
+  "color": "blue",
+  "year": 2024,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-26T06:51:49.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:51:49.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad59965deab091e82467af"
+  },
+  "company": "Ford focus",
+  "color": "white",
+  "year": 2018,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-26T06:52:06.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:52:06.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad59a85deab091e82467b1"
+  },
+  "company": "Toyota prius",
+  "color": "white",
+  "year": 2019,
+  "user_id": "68a417a23159500eb7e10ae4",
+  "createdAt": {
+    "$date": "2025-08-26T06:52:24.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:52:24.865Z"
+  },
+  "__v": 0
+}]

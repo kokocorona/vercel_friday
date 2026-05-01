@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script>
+      // map משתנה מסוג
+      const users_ar = [
+        [{role:"user",parts:[{text:"Where is lebanon"}]},{role:"user",parts:[{text:"What is its capital?"}]}],
+        [{role:"user",parts:[{text:"Where is USA"}]},{role:"user",parts:[{text:"What is its capital?"}]}]
+      ]
+
+      const map1 = new Map()
+      map1.set("22",[{role:"user",parts:[{text:"Where is lebanon"}]},{role:"user",parts:[{text:"What is its capital?"}]}])
+      map1.set("12",[{role:"user",parts:[{text:"Where is USA"}]},{role:"user",parts:[{text:"What is its capital?"}]}])
+      map1.set("32",[{role:"user",parts:[{text:"Where is USA"}]},{role:"user",parts:[{text:"What is its capital?"}]}])
+      
+      console.log(map1.has("22"));
+      // מוחק את המשתמש קיי הראשון במפה
+      for(let item of map1){
+        map1.delete(item[0])
+        break;
+      }
+
+      console.log(map1)
+
+
+  </script>
+</head>
+<body>
+  
+</body>
+</html>

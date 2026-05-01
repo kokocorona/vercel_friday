@@ -1,0 +1,34 @@
+[
+{
+  "_id": {
+    "$oid": "65840e674de1af726c8b4f72"
+  },
+  "company": "toyota prius",
+  "color": "blue",
+  "year": 2015
+},
+{
+  "_id": {
+    "$oid": "658d257a3918b887f77557af"
+  },
+  "company": "Mazda 6",
+  "color": "white",
+  "year": 2019
+},
+{
+  "_id": {
+    "$oid": "65a40c6bbe0a48b3371e91c9"
+  },
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a413aae71d2b9b8c6380d2"
+  },
+  "company": "opel",
+  "color": "red",
+  "year": 2024,
+  "__v": 0
+}]

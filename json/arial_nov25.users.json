@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "695119c29b3d3ba57ba529dd"
+  },
+  "name": "koko2",
+  "email": "koko2@walla.com",
+  "password": "$2b$10$lb3lQPDnyhucrsrIlU/JyOR.Gl2JGNI7/lnFvGLwjggQTHli6g3De",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69526df237f9c760e9608622"
+  },
+  "name": "moshe",
+  "email": "moshe@walla.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696cca3059373cc76b0e7a2b"
+  },
+  "name": "Donald trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$.2JVZy5yQ6kj77uI5Xx6GuKNtHIPCfSVjFeagM1ZSn6MwOVaq3BCm",
+  "__v": 0,
+  "role": "admin",
+  "updatedAt": {
+    "$date": "2026-01-25T11:52:33.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696e2586cb95385858c69f09"
+  },
+  "name": "bill clinton",
+  "email": "bill@walla.com",
+  "password": "$2b$10$2EzK4w.bR5CMFRPhlQ56luTjnc7M/NVzEaCi.ylhnKTChryqTaNXK",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6975d48ef05ff70a01414601"
+  },
+  "name": "Clinto bill",
+  "email": "clinton@walla.com",
+  "password": "$2b$10$YANoqGD/.69P70OQUcmp0ucSlESgZuSc6HMW5nUsxnzITw6zKMFxG",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-01-25T08:30:06.907Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-25T08:30:06.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6975fcc90f01ff98f12e1069"
+  },
+  "name": "admin",
+  "email": "admin@walla.com",
+  "password": "$2b$10$CAjiyilwgT.SJlrrg23XuOKHXSTpdJAFx2CioPVYF2GCgMjtfT7Sq",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-25T11:21:45.648Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-25T11:21:45.648Z"
+  },
+  "__v": 0
+}]

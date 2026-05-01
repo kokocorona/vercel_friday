@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "6963738f989644b97ee6c03b"
+  },
+  "name": "cola",
+  "price": 10,
+  "cals": 130
+},
+{
+  "_id": {
+    "$oid": "6963738f989644b97ee6c03c"
+  },
+  "name": "pepsi",
+  "price": 9,
+  "cals": 110
+},
+{
+  "_id": {
+    "$oid": "69637995b3e757c0358765ff"
+  },
+  "name": "sprite",
+  "price": 12,
+  "cals": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69638759af0aeb0c3b7536f0"
+  },
+  "name": "sprite 222",
+  "price": 12,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696388eacc2d95b944a1af8c"
+  },
+  "name": "sprite 3333",
+  "price": 12,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "createdAt": {
+    "$date": "2026-01-11T11:26:34.265Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-11T11:26:34.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69638f25d5bbe13c5cacc3f7"
+  },
+  "name": "Soda",
+  "price": 99,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "createdAt": {
+    "$date": "2026-01-11T11:53:09.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-11T11:54:04.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696caeb9cac98b69aa529c2b"
+  },
+  "name": "Red bull",
+  "price": 12,
+  "cals": 130,
+  "user_id": "696cad52cac98b69aa529c26",
+  "createdAt": {
+    "$date": "2026-01-18T09:58:17.293Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T09:58:17.293Z"
+  },
+  "__v": 0
+}]

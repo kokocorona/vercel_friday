@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "6963738f989644b97ee6c03b"
+  },
+  "name": "cola",
+  "price": 10,
+  "cals": 130
+},
+{
+  "_id": {
+    "$oid": "6963738f989644b97ee6c03c"
+  },
+  "name": "pepsi",
+  "price": 9,
+  "cals": 110
+},
+{
+  "_id": {
+    "$oid": "69637995b3e757c0358765ff"
+  },
+  "name": "sprite",
+  "price": 12,
+  "cals": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69638759af0aeb0c3b7536f0"
+  },
+  "name": "Monster",
+  "price": 12,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696388eacc2d95b944a1af8c"
+  },
+  "name": "Red bull",
+  "price": 12,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "createdAt": {
+    "$date": "2026-01-11T11:26:34.265Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-11T11:26:34.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69638f25d5bbe13c5cacc3f7"
+  },
+  "name": "Soda",
+  "price": 99,
+  "cals": 130,
+  "user_id": "69636b52c33a07843f57eb2c",
+  "createdAt": {
+    "$date": "2026-01-11T11:53:09.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-11T11:54:04.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6966040eccf2337e54e2abc0"
+  },
+  "name": "Red Wine",
+  "price": 30,
+  "cals": 430,
+  "createdAt": {
+    "$date": "2026-01-13T08:36:30.722Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T08:36:30.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69661a5d4c9326f6d8927dce"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T10:11:41.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T10:11:41.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69661ac04c9326f6d8927dd5"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T10:13:20.839Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T10:13:20.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69661ac04c9326f6d8927dd7"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T10:13:20.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T10:13:20.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69661ac04c9326f6d8927dd9"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T10:13:20.856Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T10:13:20.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69661ac04c9326f6d8927ddb"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T10:13:20.865Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T10:13:20.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69666c614c9326f6d8927ddd"
+  },
+  "name": "Orange juice",
+  "price": 30,
+  "cals": 230,
+  "createdAt": {
+    "$date": "2026-01-13T16:01:37.178Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T16:01:37.178Z"
+  },
+  "__v": 0
+}]
